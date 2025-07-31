@@ -2,11 +2,13 @@
 -Power BI yordamida Beton zavodi tahllil qilindi.
 
 # Beton zavodi .xlsx shaklida malumotlar taqdim etildi
--Tahlil qilish uchun Power Bi dan foydalanildi.
+- Tahlil qilish uchun Power Bi dan foydalanildi.
 
 # Nimalar aniqlandi ?
 -Yillar,oylar kesimida o'rtacha savdo
+
 -Beton sifati bo'yicha reyting
+
 -Eng yuqori va eng past ko'rsatkichli hududlar.
 
 # Ko'rinish
